@@ -216,6 +216,6 @@ _____________________________________
 
 # Copyright
 
-**© Copyright 2022 - 2024 by [PRYSM](https://www.prysmlab.com) & [Rikozz](https://www.rikozz.me)**
+**© Copyright 2022 - 2025 by [PRYSM](https://www.prysmlab.com) & [Rikozz](https://www.rikozz.me)**
 
 "Nearby" e "Nearby Community" sono dei marchi registrati di proprietà esclusiva di [PRYSM](https://www.prysmlab.com) - Ogni riproduzione anche parziale non autorizzata è vietata
